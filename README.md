@@ -5,7 +5,7 @@
 ## 安装
 
 ```bash
-pip install ./gmllc
+pip install gmllc
 ```
 
 或直接使用：
